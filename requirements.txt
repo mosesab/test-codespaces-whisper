@@ -1,0 +1,7 @@
+setuptools
+numpy
+librosa
+faster_whisper
+soundfile
+requests
+boto3
